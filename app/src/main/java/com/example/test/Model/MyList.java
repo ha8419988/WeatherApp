@@ -2,7 +2,6 @@ package com.example.test.Model;
 
 import com.example.test.Common.Clouds;
 import com.example.test.Common.Main;
-import com.example.test.Common.Rain;
 import com.example.test.Common.Sys;
 import com.example.test.Common.Weather;
 import com.example.test.Common.Wind;
@@ -16,6 +15,5 @@ public class MyList {
     public Wind wind;
     public Sys sys;
     public Main main;
-    public Rain rain;
 
 }
